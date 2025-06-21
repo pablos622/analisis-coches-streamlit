@@ -22,3 +22,5 @@ La aplicación permite al usuario generar un histograma y un gráfico de dispers
 4. Ejecuta la app con:
 
     streamlit run app.py
+
+# analisis-coches-streamlit
